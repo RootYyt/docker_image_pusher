@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 gcc:11
 centos:7
+python:3.8-alpine
+redis:alpine

@@ -9,3 +9,4 @@ centos:7
 python:3.8-alpine
 redis:alpine
 rockylinux:9
+ubuntu:20.04
